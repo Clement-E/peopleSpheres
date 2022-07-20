@@ -40,12 +40,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Comments from candidate
 
 I come from integration's (i have 10years XP in html/css) world and most recently (about 3years) for Angular world.
-Even though javascript is javascript, my only contact with react was a few weeks on a small project using React/Store/Redux/Axios combo. It was 3 years ago :)
+Even though javascript is javascript, my only contact with react was a few weeks on a small project using `React/Store/Redux/Axios` combo. It was 3 years ago :)
 
-First of all, i found this kind of assessment pretty fun to do. It was a good exercice (made for juniors i believe...) to remember React synthax, reducer methods etc. 
+First of all, i found this kind of assessment pretty fun to do. It was a good exercice (made for juniors i believe...) to remember React syntax, reducer methods etc. 
 React seems so light and fluid to manipulate compared to Angular.
-Even if it's very readable for me i lack of "best practices" in React and i'm not sure i am able to suggest more relevant refactoring than doing one file from add/updateFormContainer.js because of DRY and doing a map() of formGroupItems in product.js...
-BUT, i can tell that i'm missed Typecript implementation a lot reading this code! ^^
+Even if it's very readable for me i lack of "best practices" in React and i'm not sure i am able to suggest more relevant refactoring than doing one file from `add/updateFormContainer.js` because of DRY and doing a `map()` of `formGroupItems` in `product.js`...
+BUT, i can tell that i'm missed `Typecript` implementation a lot reading this code! ^^
 
 Thank you for your reading and i'm hoping forward your comments
 
